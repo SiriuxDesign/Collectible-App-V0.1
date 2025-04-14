@@ -1,1 +1,1 @@
-# Collectible-App-V0.1
+# Collectible-App
